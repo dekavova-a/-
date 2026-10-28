@@ -2,3 +2,10 @@ __pycache__/
 *.pyc
 .DS_Store
 test-output/
+.godot/
+build/
+*.tmp
+*.log
+*.exe
+*.pck
+*.x86_64
